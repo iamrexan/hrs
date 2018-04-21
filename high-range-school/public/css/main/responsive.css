@@ -1,0 +1,546 @@
+@media screen and (min-width:1024px) and (max-width:1200px) {
+	
+section.menu_sec li.main_menu {
+	margin:0 6px;
+}	
+
+section.menu_sec {
+	font-size:11.5px;
+}
+
+.logo_base {
+	left:49%;
+}
+
+ul.first_menu {
+	top:86px;
+}
+
+li.main_menu.rite_corner ul.mean_base {
+    left: auto;
+    right: 0;
+}
+
+li.main_menu.rite_corner ul.inner_base {
+	left:-100%;
+}
+
+.banner_cont {
+   top: 13%;
+}
+	
+ul.contact_form li p.last_area {
+    width: 97%;
+}
+.club_carosel {
+	height:auto;
+}
+
+	
+}
+
+
+@media screen and (min-width:768px) and (max-width:1023px){
+	
+.logo_base {
+    position: static;
+    width: 100%;
+    text-align: center;
+    transform: none;
+	-webkit-transform: none;
+	-moz-transform: none;
+	-o-transform: none;
+}
+
+.logo_base img {
+	float:none;
+	display:inline-block;
+}	
+
+.banner_cont h3 {
+	    font-size: 41px;
+}
+
+.banner_cont {
+	top:10%;
+}
+
+p.about_cont,ul.scroll_base,.testbase_cont {
+	width:100%;
+}
+
+ul.contact_form li p.last_area {
+    width: 97%;
+}
+
+ul.main_address li p.left_padd {
+    padding-left: 0;
+}
+
+ul.menu_inner {
+	left: -100%;
+}
+
+.menu_mobile {
+	display:block;
+}	
+
+.menu_inner li {
+	width:100%;
+}
+
+.menu_mobile {
+        display: inline-block;
+    float: right;
+    font-size: 31px;
+    margin-top: 15px;
+}
+
+.logo_base {
+    position: static;
+transform: none;
+-webkit-transform: none;
+-moz-transform: none;
+-o-transform: none;
+text-align:center;}
+
+section.menu_sec {
+    padding: 4px 0;
+}
+
+ul.menu_inner {
+    position: fixed;
+    top: 0;
+    /* left: 0; */
+    background: #1f8bc3;
+    width: 70%;
+    z-index: 99;
+    box-shadow: rgba(0, 0, 0, 0.33) 0 0 12px;
+	    overflow: auto;
+    height: 100%;
+}
+
+section.menu_sec li.main_menu {
+    margin: 0;
+    padding: 7px 25px;
+	    width: 100%;
+}
+
+ul.mean_base,ul.inner_base {
+position: static;
+    display: block;
+	width: 100%;}
+	
+ul.inner_base li {
+    padding: 7px 21px;
+}
+
+ul.mean_base li:last-child a {
+    border-bottom: #3496c7 solid 1px;
+}
+
+ul.mean_base {
+	opacity:1;
+}
+
+.aluni_inner {
+    width: 100%;
+}
+
+
+.club_carosel {
+	height:auto;
+}
+.one_maga {
+width: 100%;}
+
+.banner_sec .carousel-indicators {
+	display:none;
+}
+	
+}
+
+
+@media screen and (min-width:768px) {
+	
+#lab_cont .modal-dialog {
+    width: 55%;}
+	
+#faculty_details .modal-dialog {
+	width:100%;
+	
+}
+
+#faculty_details .modal-content {
+    height: 750px;
+    overflow: auto;
+}
+
+section.banner_sec {
+	height:706px;
+	overflow:hidden;
+}
+	
+}
+
+@media screen and (max-width:767px) {
+
+ul.menu_inner {
+	left: -100%;
+}
+
+.menu_mobile {
+	display:block;
+}	
+
+.menu_inner li {
+	width:100%;
+}
+
+.menu_mobile {
+        display: inline-block;
+    float: right;
+    font-size: 31px;
+    margin-top: 15px;
+}
+
+.logo_base {
+    position: static;
+transform: none;
+-webkit-transform: none;
+-moz-transform: none;
+-o-transform: none;
+text-align:center;}
+
+section.menu_sec {
+    padding: 4px 0;
+}
+
+ul.menu_inner {
+    position: fixed;
+    top: 0;
+    /* left: 0; */
+    background: #1f8bc3;
+    width: 70%;
+    z-index: 99;
+    box-shadow: rgba(0, 0, 0, 0.33) 0 0 12px;
+	    overflow: auto;
+    height: 100%;
+}
+
+section.menu_sec li.main_menu {
+    margin: 0;
+    padding: 7px 25px;
+	    width: 100%;
+}
+
+ul.mean_base,ul.inner_base {
+position: static;
+    display: block;
+	width: 100%;}
+	
+ul.inner_base li {
+    padding: 7px 21px;
+}
+
+.banner_cont h3 {
+	font-size:28px;
+}
+
+.banner_cont p {
+    font-size: 15px;
+	width:100%;
+   }
+   
+.banner_cont {
+	top:11px;
+}
+
+h1.sec_head {
+	font-size:32px;
+}
+
+p.about_cont {
+	line-height: 29px;
+    width: 100%;
+}
+
+h1.sec_head {
+	margin: 0 0 16px 0;
+}
+
+.about_sec {
+	background-size: 100%;
+    background-position: center;
+}
+
+ul.scroll_base {
+width: 100%;}
+
+section.gallery_sec h1.sec_head {
+    margin-bottom: 23px;
+}
+
+.testbase_cont {
+	width:100%;
+}
+
+ul.contact_form {
+    width: 100%;
+}
+
+ul.contact_form li p.last_area {
+    width: 97%;
+}
+
+h1.foot_head.no_head {
+    display: none;
+}
+
+ul.mean_base li:last-child a {
+    border-bottom: #3496c7 solid 1px;
+}
+
+ul.mean_base {
+	opacity:1;
+}
+
+.left_profile, .rite_profile {
+    display: inline-block;
+    margin-bottom: 35px;
+	padding:0;
+}
+
+.rite_profile {
+	margin-bottom:0;
+}
+
+h1.page_head {
+	font-size: 24px;
+    letter-spacing: 1px;
+}
+
+.page_inner {
+	padding: 20px 12px;
+}
+
+.msg_inner li.names {
+	left: -2.5%;
+}
+
+.aluni_inner {
+    width: 100%;
+	padding:20px 0; 
+}
+
+.alumni_form label {
+    width: 100%;
+}
+
+.alumni_form span.rite_form {
+    width: 100%;
+}
+
+ul.main_formbase {
+    width: 100%;
+}
+
+.page_inner.curriculams .name_principal {
+	left:-2.5%;
+}
+
+iframe.asset_video {
+width: 100%;}
+
+.club_carosel {
+	height:auto;
+}
+
+.club_carosel .carousel-caption p {
+    font-size: 15px;
+}
+
+.address_base {
+	    width: 100%;
+		position:static;
+		padding: 15px;
+}
+
+.address_base ul.main_address {
+    margin: 0;
+	
+}
+
+.address_base ul.main_address li {
+	font-size:17px;
+}
+
+.contact_map {
+    height: 300px;
+}
+
+li.magazine_inner {
+    margin-bottom: 8px;
+}
+
+section.banner_sec .carousel-indicators  {
+	display:none;
+}
+
+p.cont_banner {
+    margin: 8px auto 10px;
+}
+
+ul.gallery_inner li {
+    text-align: center;
+}
+
+ul.gallery_inner li img {
+    width: auto;
+}
+	
+}
+
+
+@media screen and (max-width:567px) {
+	
+ul.menu_inner {
+	width:85%;
+	left: -100%;
+}
+
+.banner_cont {
+    top: 0;
+}
+
+.banner_cont h3 {
+    font-size: 22px;
+}
+
+.banner_cont p {
+font-size: 12px;
+    margin: 8px 0;
+}
+
+.banner_cont p.virtual_btn button {
+	    font-size: 16px;
+   padding: 6px 17px 3px;
+}
+
+section.banner_sec .carousel-control .glyphicon-chevron-left,section.banner_sec .carousel-control .glyphicon-chevron-right {
+    width: 30px;
+height: 35px;}
+
+section.banner_sec .carousel-indicators {
+	display:none;
+}
+
+ul.contact_form li p {
+    width: 100%;
+    margin: 10px 0;
+}
+
+ul.contact_form li p.last_area {
+    width: 100%;
+}
+
+section.copywrite_sec p.left_copy {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    font-size: 13px;
+	margin-bottom:15px;
+}
+
+.rite_social {
+	float:none;
+	display:inline-block;
+}
+
+section.copywrite_sec {
+	text-align:center;
+}
+.msg_inner li.names {
+    left: -5%;
+}
+
+h1.page_head {
+font-size: 20px;
+line-height: 26px;}
+
+h3.princi_head {
+	font-size:17px;
+}
+
+.page_inner.curriculams .name_principal {
+    left: -5%;
+}
+
+.banner_cont .cont_banner {
+	display:none;
+}
+
+.name_principal {
+	padding: 8px 10px;
+}
+
+h5.extra_head {
+font-size: 17px;
+line-height:25px;}
+
+.staff_img {
+	width:100%;
+}
+
+h1.staff_name {
+	font-size:21px;
+}
+
+ul.staff_base li label {
+	width:100%;
+}
+
+ul.staff_base li input {
+	width:100%;
+}
+
+ul.staff_base li textarea,span.rite_one {
+	width:100%;
+}
+
+#lab_cont ul.msg_inner {
+padding: 0 15px;}
+
+iframe.asset_video {
+	height:auto;
+}
+
+.inne_house {
+	margin:15px;
+}
+
+.club_carosel {
+width: 100%;}
+
+.club_carosel .carousel-caption p {
+    font-size: 9px;
+}
+
+.club_carosel .carousel-indicators {
+	display:none;
+}
+
+.msg_inner .nolist {
+	word-break:break-all;
+}
+
+.msg_inner li.sport_img img {
+	width:100%;
+}
+
+ul.main_formbase li.new_users label,ul.main_formbase li.new_users label:last-child {
+	width:100%;
+	text-align:center;
+}
+	
+}
